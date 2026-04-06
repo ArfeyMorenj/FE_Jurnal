@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Cara Menjadi Raja Kerlipto Eksklusif 2025",
+    "category": "Berita",
+    "views": "500x",
+    "uploadDate": "12 Desember 2025",
+    "status": "Dipublikasikan",
+    "author": "Admin",
+    "image": "/images/news1.png",
+    "tags": ["Berita", "Eksklusif", "Kerlipto"],
+    "description": "<p>Dalam artikel ini kita akan membahas bagaimana cara menjadi Raja Kerlipto di tahun 2025. Persiapkan diri dengan baik dan pahami langkah-langkah berikut.</p><p>Kunci utamanya adalah konsistensi, kerja keras, dan strategi jangka panjang.</p>"
+  },
+  {
+    "id": 2,
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "category": "Teknologi",
+    "views": "200x",
+    "uploadDate": "12 Desember 2025",
+    "status": "Belum Dipublikasikan",
+    "author": "Ella Aulya",
+    "image": "/images/news1.png",
+    "tags": ["Teknologi", "Berita", "FYp"],
+    "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec semper, mauris vel placerat egestas, erat diam congue tellus, ut tincidunt sem sem quis metus.</p><p>Donec condimentum enim in lectus elementum, nec commodo dui faucibus.</p>"
+  }
+]

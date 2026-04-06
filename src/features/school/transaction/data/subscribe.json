@@ -1,0 +1,79 @@
+{
+  "dummyLangganan": [
+    {
+      "id": 1,
+      "paket": "Berlangganan Premium 1 Bulan",
+      "start_date": "2025-12-12",
+      "end_date": "2026-01-12",
+      "status": "Aktif",
+      "detail": {
+        "nama": "John Doe",
+        "alamat": "Jl. Merdeka No. 45, Jakarta",
+        "invoice_no": "INV-001-2025",
+        "tanggal": "2025-12-12",
+        "masa_berlaku": "1 Bulan",
+        "metode": "Transfer Bank",
+        "total": 50000
+      },
+      "footer": {
+        "company": "PT Hummatech Indonesia",
+        "address": "Jl. Mawar No. 21, Malang, Jawa Timur",
+        "phone": "+62 812-3456-7890",
+        "email": "support@hummatech.com",
+        "qrUrl": "https://hummatech.com/invoice/1",
+        "director": "Fauzan Rahmanda",
+        "directorPosition": "Direktur Utama"
+      }
+    },
+    {
+      "id": 2,
+      "paket": "Berlangganan Premium 3 Bulan",
+      "start_date": "2025-12-12",
+      "end_date": "2026-03-12",
+      "status": "Expired",
+      "detail": {
+        "nama": "Maria Gomez",
+        "alamat": "Jl. Anggrek No. 70, Bandung",
+        "invoice_no": "INV-002-2025",
+        "tanggal": "2025-12-12",
+        "masa_berlaku": "3 Bulan",
+        "metode": "E-Wallet",
+        "total": 120000
+      },
+      "footer": {
+        "company": "PT Hummatech Indonesia",
+        "address": "Jl. Mawar No. 21, Malang, Jawa Timur",
+        "phone": "+62 812-3456-7890",
+        "email": "support@hummatech.com",
+        "qrUrl": "https://hummatech.com/invoice/2",
+        "director": "Fauzan Rahmanda",
+        "directorPosition": "Direktur Utama"
+      }
+    },
+    {
+      "id": 3,
+      "paket": "Berlangganan Premium 1 Tahun",
+      "start_date": "2025-12-12",
+      "end_date": "2026-12-12",
+      "status": "Expired",
+      "detail": {
+        "nama": "Akira Tanaka",
+        "alamat": "Tokyo Street 18, Jepang",
+        "invoice_no": "INV-003-2025",
+        "tanggal": "2025-12-12",
+        "masa_berlaku": "1 Tahun",
+        "metode": "Kartu Kredit",
+        "total": 450000
+      },
+      "footer": {
+        "company": "PT Hummatech Indonesia",
+        "address": "Jl. Mawar No. 21, Malang, Jawa Timur",
+        "phone": "+62 812-3456-7890",
+        "email": "support@hummatech.com",
+        "qrUrl": "https://hummatech.com/invoice/3",
+        "director": "Fauzan Rahmanda",
+        "directorPosition": "Direktur Utama"
+      }
+    }
+  ]
+}

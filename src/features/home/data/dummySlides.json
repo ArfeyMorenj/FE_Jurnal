@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": "Atur hidup, kerja, dan belajar lebih mudah dengan berbagai aplikasi jurnal dari MiJurnal",
+    "subtitle":
+      "Kelola catatan, tugas, hingga keuangan dalam satu platform. MiJurnal hadir dengan berbagai aplikasi jurnal yang memudahkan aktivitas sehari-hari, baik untuk belajar, bekerja, maupun kehidupan pribadi.",
+    "buttonLink": "/aplikasi/jurnal-mengajar",
+    "phoneImage": "/images/phone1.png"
+  },
+  {
+    "id": 2,
+    "title": "MiJurnal, solusi serbaguna dengan kumpulan aplikasi jurnal dalam satu tempat",
+    "subtitle":
+      "Dengan MiJurnal, berbagai kebutuhan tercatat dan terorganisir dalam satu platform. Dari belajar, bekerja, hingga mengelola aktivitas sehari-hari, semua jadi lebih mudah dan efisien.",
+    "buttonLink": "/aplikasi/jurnal-siswa",
+    "phoneImage": "/images/phone2.png"
+  },
+  {
+    "id": 3,
+    "title": "Semua jenis jurnal, satu aplikasi — itulah MiJurnal",
+    "subtitle": "MiJurnal menggabungkan berbagai kebutuhan dalam satu aplikasi. Dari jurnal belajar, mengajar, hingga aktivitas sehari-hari, semuanya tersusun rapi dan mudah diakses.",
+    "buttonLink": "/aplikasi/jurnal-mengajar",
+    "phoneImage": "/images/phone3.png"
+  }
+]

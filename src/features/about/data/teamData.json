@@ -1,0 +1,39 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "image": "/images/catphoto.jpeg",
+      "title": "Software",
+      "subtitle": "Developers",
+      "bgColor": "bg-gray-300"
+    },
+    {
+      "id": 2,
+      "image": "/images/catphoto.jpeg",
+      "title": "QA",
+      "subtitle": "Engineers",
+      "bgColor": "bg-blue-400"
+    },
+    {
+      "id": 3,
+      "image": "/images/catphoto.jpeg",
+      "title": "UX",
+      "subtitle": "Designers",
+      "bgColor": "bg-gray-800"
+    },
+    {
+      "id": 4,
+      "image": "/images/catphoto.jpeg",
+      "title": "Data",
+      "subtitle": "Scientists",
+      "bgColor": "bg-gray-200"
+    },
+    {
+      "id": 5,
+      "image": "/images/catphoto.jpeg",
+      "title": "Project",
+      "subtitle": "Managers",
+      "bgColor": "bg-gray-100"
+    }
+  ]
+}

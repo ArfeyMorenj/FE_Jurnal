@@ -1,0 +1,23 @@
+{
+  "jurnalSiswa": {
+    "title": "Belajar lebih teratur dan menyenangkan dengan Jurnal Siswa di MiJurnal",
+    "description": "Di MiJurnal, guru dan siswa bisa mengatur kelas, tugas, serta catatan pembelajaran dengan praktis. Semua jadi lebih teratur dan menyenangkan.",
+    "primaryButtonText": "Jelajahi Aplikasi",
+    "primaryButtonColor": "#E45E14",
+    "showGooglePlayButton": true,
+    "imageSrc": "/svg/photos1.svg",
+    "imageAlt": "Ilustrasi siswa MiJurnal",
+    "reverse": true
+  },
+  "jurnalMengajar": {
+    "title": "Serunya belajar dan mengajar dalam satu aplikasi MiJurnal mengajar",
+    "description": "Di MiJurnal, guru dan siswa bisa mengatur kelas, tugas, serta catatan pembelajaran dengan praktis. Semua jadi lebih teratur dan menyenangkan.",
+    "primaryButtonText": "Jelajahi Aplikasi",
+    "primaryButtonColor": "#E45E14",
+    "showGooglePlayButton": true,
+    "imageSrc": "/svg/teach.svg",
+    "imageAlt": "Guru mengajar di kelas",
+    "reverse": true
+  }
+}
+

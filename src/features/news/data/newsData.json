@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "slug": "kegiatan-komunitas-terbaru",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Berita terbaru mengenai kegiatan dan informasi terkini seputar komunitas.",
+    "image": "/images/news1.png",
+    "author": "Admin",
+    "date": "12 Desember 2025",
+    "category": "Berita",
+    "views": "175",
+    "tags": ["kopi", "roti pisang", "makanan", "sarapan pagi"]
+  },
+  {
+    "id": 2,
+    "slug": "perkembangan-teknologi-terbaru",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Informasi menarik tentang perkembangan dan inovasi terbaru di bidang teknologi.",
+    "image": "/images/news1.png",
+    "author": "Admin",
+    "date": "12 Desember 2025",
+    "category": "Berita",
+    "views": "175",
+    "tags": ["kopi", "roti enak", "makanan", "sarapan pagi"]
+  },
+  {
+    "id": 3,
+    "slug": "kegiatan-sosial-dan-relawan",
+    "title": "Lorem ipsum dolor sit ",
+    "description": "Ulasan kegiatan sosial yang dilakukan oleh tim dan para relawan.",
+    "image": "/images/news1.png",
+    "author": "Admin",
+    "date": "12 Desember 2025",
+    "category": "Berita",
+    "views": "175",
+    "tags": ["kopi", "roti pisang", "makanan"]
+  },
+  {
+    "id": 4,
+    "slug": "kegiatan-sosial-dan-relawan-bersama",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Ulasan kegiatan sosial yang dilakukan oleh tim dan para relawan.",
+    "image": "/images/news1.png",
+    "author": "Admin",
+    "date": "12 Desember 2025",
+    "category": "Berita",
+    "views": "175",
+    "tags": ["kopi", "roti pisang", "makanan", "sarapan pagi"]
+  }
+]

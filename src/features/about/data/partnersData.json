@@ -1,0 +1,49 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Samsung",
+      "logo": "/images/samsung.png"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "logo": "/images/samsung.png"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "logo": "/images/samsung.png"
+    },
+    {
+      "id": 4,
+      "name": "Slack",
+      "logo": "/images/samsung.png"
+    },
+    {
+      "id": 5,
+      "name": "Slack",
+      "logo": "/images/samsung.png"
+    },
+    {
+      "id": 6,
+      "name": "LG",
+      "logo": "/images/samsung.png"
+    },
+    {
+      "id": 7,
+      "name": "LG",
+      "logo": "/images/samsung.png"
+    },
+    {
+      "id": 8,
+      "name": "Sony",
+      "logo": "/images/samsung.png"
+    },
+    {
+      "id": 9,
+      "name": "Sony",
+      "logo": "/images/samsung.png"
+    }
+  ]
+}

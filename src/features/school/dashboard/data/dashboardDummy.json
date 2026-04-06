@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "total_classrooms": 100,
+    "total_teachers": 200,
+    "total_students": 431,
+    "total_journals": 500
+  },
+  "trendData": {
+    "classes_trend": {
+      "value": 4,
+      "period": "30 hari",
+      "type": "increase"
+    },
+    "teachers_trend": {
+      "value": 4,
+      "period": "30 hari",
+      "type": "increase"
+    },
+    "students_trend": {
+      "value": 12,
+      "period": "30 hari",
+      "type": "decrease"
+    },
+    "journals_trend": {
+      "value": 12,
+      "period": "30 hari",
+      "type": "decrease"
+    }
+  },
+  "chart_students": [
+    { "lesson": "IPA", "total_students": 85 },
+    { "lesson": "BINDO", "total_students": 92 },
+    { "lesson": "MTK", "total_students": 303 },
+    { "lesson": "IPS", "total_students": 78 },
+    { "lesson": "BIG", "total_students": 65 }
+  ],
+  "chart_transactions": [
+    { "year": 2020, "total_transactions": 250000 },
+    { "year": 2021, "total_transactions": 420000 },
+    { "year": 2022, "total_transactions": 380000 },
+    { "year": 2023, "total_transactions": 650000 },
+    { "year": 2024, "total_transactions": 580000 },
+    { "year": 2025, "total_transactions": 720000 }
+  ],
+  "chart_teachers": [
+    { "year": 2019, "new_teachers": 13, "total_teachers": 13 },
+    { "year": 2020, "new_teachers": 15, "total_teachers": 28 },
+    { "year": 2021, "new_teachers": 12, "total_teachers": 40 },
+    { "year": 2022, "new_teachers": 17, "total_teachers": 57 },
+    { "year": 2023, "new_teachers": 10, "total_teachers": 67 },
+    { "year": 2024, "new_teachers": 18, "total_teachers": 85 },
+    { "year": 2025, "new_teachers": 21, "total_teachers": 106 }
+  ],
+  "latest_teachers": [
+    {
+      "name": "Alberto Vieira Santos",
+      "photo": "https://i.pravatar.cc/150?img=12",
+      "joined_at": "27 November 2025"
+    },
+    {
+      "name": "Maria Silva Costa",
+      "photo": "https://i.pravatar.cc/150?img=5",
+      "joined_at": "25 November 2025"
+    },
+    {
+      "name": "João Pedro Oliveira",
+      "photo": "https://i.pravatar.cc/150?img=33",
+      "joined_at": "23 November 2025"
+    },
+    {
+      "name": "Ana Carolina Santos",
+      "photo": "https://i.pravatar.cc/150?img=9",
+      "joined_at": "20 November 2025"
+    }
+  ]
+}

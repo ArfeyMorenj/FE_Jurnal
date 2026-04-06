@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Rapi",
+    "icon": "simple-icons:rapid",
+    "bg": "bg-[#EFEEFF]",
+    "color": "text-[#918CFF]"
+  },
+  {
+    "title": "Interaktif",
+    "icon": "uil:book-open",
+    "bg": "bg-[#FFF8E8]",
+    "color": "text-[#FFC645]"
+  },
+  {
+    "title": "Cepat",
+    "icon": "mdi:clock-fast",
+    "bg": "bg-[#FFECEC]",
+    "color": "text-[#FD6363]"
+  },
+  {
+    "title": "Progresif",
+    "icon": "streamline-freehand:design-process-pen-idea",
+    "bg": "bg-[#EDFFFD]",
+    "color": "text-[#37DFCF]"
+  }
+]

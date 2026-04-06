@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "/images/catphoto.jpeg",
+    "name": "Jessica Andrew",
+    "review": "Customer supportnya cepat respon, sangat puas dengan pelayanan yang diberikan. Setiap pertanyaan dan kendala saya langsung ditangani dengan sigap dan ramah, membuat saya merasa dihargai sebagai pelanggan. Proses komunikasi yang efisien dan solusi yang tepat membuat pengalaman saya menjadi sangat menyenangkan. Saya pasti akan merekomendasikan layanan ini kepada teman dan keluarga.",
+    "app": "Jurnal Mengajar",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "image": "/images/catphoto.jpeg",
+    "name": "Michael Hartono",
+    "review": "Aplikasi ini sangat membantu saya dalam mengatur jadwal mengajar dan memantau perkembangan siswa.",
+    "app": "Jurnal Siswa",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "image": "/images/catphoto.jpeg",
+    "name": "Sarah Putri",
+    "review": "Fitur-fiturnya lengkap dan mudah digunakan. Tampilan juga simpel dan nyaman dilihat.",
+    "app": "Jurnal Mengajar",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "image": "/images/catphoto.jpeg",
+    "name": "Rizky Maulana",
+    "review": "Sangat membantu guru maupun siswa untuk saling berkoordinasi. Namun, loading kadang agak lama.",
+    "app": "Jurnal Mengajar",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "image": "/images/catphoto.jpeg",
+    "name": "Aulia Rahma",
+    "review": "Sekarang saya lebih mudah mengetahui jadwal pelajaran setiap hari, terima kasih MiJurnal!",
+    "app": "Jurnal Mengajar",
+    "rating": 5
+  }
+]

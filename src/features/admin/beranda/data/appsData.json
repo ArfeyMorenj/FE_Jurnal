@@ -1,0 +1,19 @@
+{
+  "apps": [
+    {
+      "image": "/images/phone1.png",
+      "name": "Aplikasi Jurnal Mengajar",
+      "description": "Jurnal Mengajar MiJurnal hadir untuk membantu guru mencatat, mengatur, dan memantau kegiatan belajar dengan lebih terstruktur."
+    },
+    {
+      "image": "/images/phone2.png",
+      "name": "Aplikasi Jurnal Siswa",
+      "description": "Jurnal Siswa MiJurnal memudahkan siswa untuk mencatat aktivitas belajar dan memantau perkembangan tugas."
+    }
+  ],
+  "appOptions": [
+    { "value": "guru", "label": "Aplikasi Jurnal Mengajar" },
+    { "value": "siswa", "label": "Aplikasi Jurnal Siswa" },
+    { "value": "admin", "label": "Aplikasi Admin Sekolah" }
+  ]
+}

@@ -1,0 +1,15 @@
+#quill-toolbar-container {
+  display: none !important;
+}
+.custom-quill-editor .ql-container {
+  border: none !important;
+}
+.custom-quill-editor .ql-editor {
+  min-height: 120px;
+  padding: 12px 15px;
+  font-size: 14px;
+}
+.custom-quill-editor .ql-editor.ql-blank::before {
+  color: #9ca3af;
+  font-style: normal;
+}

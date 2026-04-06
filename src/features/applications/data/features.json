@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Daftar Kelas",
+    "description": "Fitur Daftar Kelas pada Jurnal Siswa memudahkan setiap siswa melihat kelas yang diikuti, mencatat aktivitas belajar, serta melacak tugas dan materi dengan lebih teratur. Semua tersaji dalam satu tampilan yang rapi sehingga siswa dapat memahami perkembangan belajar mereka dengan jelas.",
+    "appName": "Jurnal Siswa",
+    "appNameColor": "#E45E14",
+    "backgroundColor": "#FF6B6B",
+    "phoneImage": "/images/phone/iPhone15Pro.svg",
+    "circleIcon": "s",
+    "circleIconText": "Kelas",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#CA2323",
+    "linkRoute": "/aplikasi/jurnal-siswa"
+  },
+  {
+    "title": "Daftar Mapel",
+    "description": "Fitur Daftar Mapel pada Jurnal Siswa membantu siswa mengelola mata pelajaran yang diikuti dalam satu halaman yang rapi dan jelas. Siswa dapat mencatat, memantau, serta memastikan setiap mapel terorganisir dengan baik, sehingga proses pembelajaran lebih mudah dikendalikan dan terstruktur.",
+    "appName": "Jurnal Siswa", 
+    "appNameColor": "#E45E14",
+    "backgroundColor": "#4ECDC4",
+    "phoneImage": "/images/phone/iPhone16.png",
+    "circleIcon": "BookOpen",
+    "circleIconText": "Mapel",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#E45E14",
+    "linkRoute": "/aplikasi/jurnal-siswa"
+  },
+  {
+    "title": "Pengingat",
+    "description": "Fitur Pengingat pada Jurnal Siswa membantu siswa mengatur jadwal belajar, deadline tugas, serta aktivitas penting agar tidak ada yang terlewat. Semua tersaji otomatis dan terjadwal rapi, sehingga proses belajar menjadi lebih disiplin, efisien, dan mudah diikuti.",
+    "appName": "Jurnal Siswa",
+    "appNameColor": "#E45E14", 
+    "backgroundColor": "#FFD93D",
+    "phoneImage": "/images/phone/iPhone15Pro.svg",
+    "circleIcon": "Bell",
+    "circleIconText": "Reminder",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#3FDBB1",
+    "linkRoute": "/aplikasi/jurnal-siswa"
+  },
+  {
+    "title": "Kelompol & Jurnal",
+    "description": "Fitur Jurnal dan Kelompok pada Jurnal Siswa membantu mencatat aktivitas belajar, memantau tugas, serta menyusun catatan pribadi secara teratur. Selain itu, siswa dapat berkolaborasi dalam kelompok, berdiskusi, dan mengerjakan tugas bersama dengan lebih terarah. Semua tercatat rapi, sehingga proses belajar terasa lebih efektif, interaktif, dan menyenangkan.",
+    "appName": "Jurnal Dan Kelompok",
+    "appNameColor": "#E45E14",
+    "backgroundColor": "#A8E6CF",
+    "phoneImage": "/images/phone/iPhone16.png",
+    "circleIcon": "FileText",
+    "circleIconText": "Notes",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#9B59B6",
+    "linkRoute": "/aplikasi/jurnal-siswa"
+  },
+  {
+    "title": "Statistik Belajar",
+    "description": "Fitur Statistik Belajar pada Jurnal Siswa memberikan insight mendalam tentang pola belajar, waktu yang dihabiskan untuk setiap mata pelajaran, serta progress pencapaian akademik. Semua data tersaji dalam grafik yang mudah dipahami, sehingga siswa dapat mengoptimalkan strategi belajar mereka.",
+    "appName": "Jurnal Siswa",
+    "appNameColor": "#E45E14",
+    "backgroundColor": "#FFB6C1",
+    "phoneImage": "/images/phone/iPhone15Pro.svg",
+    "circleIcon": "BarChart",
+    "circleIconText": "Stats",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#FF6B6B",
+    "linkRoute": "/aplikasi/jurnal-siswa"
+  }
+]

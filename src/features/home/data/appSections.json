@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Jurnal Siswa",
+    "description":
+      "Jurnal Siswa MiJurnal memudahkan setiap siswa untuk mencatat aktivitas belajar, memantau perkembangan tugas, serta mengatur jadwal agar pembelajaran lebih terarah dan konsisten.",
+    "buttonColor": "#E45E14",
+    "image": "/images/phone/phone1.png",
+    "linkRoute": "/aplikasi/jurnal-siswa"
+  },
+  {
+    "title": "Jurnal Mengajar",
+    "description":
+      "Jurnal Mengajar MiJurnal hadir untuk membantu guru mencatat, mengatur, dan memantau kegiatan belajar dengan lebih terstruktur.",
+    "buttonColor": "#CA2323",
+    "image": "/images/phone/phone2.png",
+    "linkRoute": "/aplikasi/jurnal-mengajar"
+  },
+  {
+    "title": "Jurnal Belajar",
+    "description":
+      "Jurnal Siswa MiJurnal memudahkan setiap siswa untuk mencatat aktivitas belajar, memantau perkembangan tugas, serta mengatur jadwal agar pembelajaran lebih terarah dan konsisten.",
+    "buttonColor": "#3FDBB1",
+    "image": "/images/phone/phone1.png",
+    "linkRoute": "/aplikasi/jurnal-mengajar"
+  }
+]

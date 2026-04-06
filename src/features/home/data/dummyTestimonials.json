@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Jessica Andrew",
+    "role": "Jurnal Mengajar",
+    "text": "Sejak menggunakan MiJurnal, saya lebih mudah mengatur catatan mengajar dan memantau perkembangan siswa.",
+    "image": "/images/catphoto.jpeg",
+    "rating": 5
+  },
+  {
+    "name": "Darlene Robertson",
+    "role": "Jurnal Siswa",
+    "text": "Dengan MiJurnal, belajar jadi lebih terarah. Saya bisa melihat jadwal pelajaran dan tugas dengan jelas.",
+    "image": "/images/catphoto.jpeg",
+    "rating": 5
+  },
+  {
+    "name": "Dianne Russell",
+    "role": "Jurnal Belajar",
+    "text": "MiJurnal membuat proses belajar mengajar di kelas jauh lebih efektif. Semua tercatat rapi dan mudah diakses.",
+    "image": "/images/catphoto.jpeg",
+    "rating": 5
+  },
+  {
+    "name": "John Doe",
+    "role": "Jurnal Siswa",
+    "text": "Sangat membantu saya dalam mengelola jadwal belajar harian.",
+    "image": "/images/catphoto.jpeg",
+    "rating": 5
+  },
+  {
+    "name": "Lisa",
+    "role": "Jurnal Siswa",
+    "text": "Sangat membantu saya dalam mengelola jadwal belajar harian.",
+    "image": "/images/catphoto.jpeg",
+    "rating": 5
+  },
+  {
+    "name": "Conrad",
+    "role": "Jurnal Siswa",
+    "text": "Sangat membantu saya dalam mengelola jadwal belajar harian.",
+    "image": "/images/catphoto.jpeg",
+    "rating": 5
+  }
+]

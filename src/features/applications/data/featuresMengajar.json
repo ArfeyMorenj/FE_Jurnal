@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Kelola Kelas",
+    "description": "Fitur Kelola Kelas pada Jurnal Mengajar memudahkan guru mengatur daftar siswa, jadwal pembelajaran, serta materi yang akan diajarkan dalam setiap sesi. Semua tersaji dalam satu tampilan yang rapi sehingga proses mengajar menjadi lebih terstruktur dan efisien.",
+    "appName": "Jurnal Mengajar",
+    "appNameColor": "#CA2323",
+    "backgroundColor": "#FF6B6B",
+    "phoneImage": "/images/phone/iPhone15Pro.svg",
+    "circleIcon": "Users",
+    "circleIconText": "Kelas",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#CA2323",
+    "linkRoute": "/aplikasi/jurnal-mengajar"
+  },
+  {
+    "title": "Rencana Pembelajaran",
+    "description": "Fitur Rencana Pembelajaran pada Jurnal Mengajar membantu guru menyusun RPP (Rencana Pelaksanaan Pembelajaran), mencatat tujuan pembelajaran, serta mengatur strategi mengajar yang akan diterapkan. Semua tersaji dalam format yang mudah diakses dan diorganisir.",
+    "appName": "Jurnal Mengajar",
+    "appNameColor": "#CA2323",
+    "backgroundColor": "#4ECDC4",
+    "phoneImage": "/images/phone/iPhone16.png",
+    "circleIcon": "Calendar",
+    "circleIconText": "RPP",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#E45E14",
+    "linkRoute": "/aplikasi/jurnal-mengajar"
+  },
+  {
+    "title": "Evaluasi Siswa",
+    "description": "Fitur Evaluasi Siswa pada Jurnal Mengajar memungkinkan guru mencatat penilaian harian, mengevaluasi perkembangan belajar siswa, serta memberikan feedback yang konstruktif. Semua data tersaji dalam format yang mudah dipahami dan diakses kapan saja.",
+    "appName": "Jurnal Mengajar",
+    "appNameColor": "#CA2323",
+    "backgroundColor": "#FFD93D",
+    "phoneImage": "/images/phone/iPhone15Pro.svg",
+    "circleIcon": "ClipboardCheck",
+    "circleIconText": "Evaluasi",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#3FDBB1",
+    "linkRoute": "/aplikasi/jurnal-mengajar"
+  },
+  {
+    "title": "Catatan Mengajar",
+    "description": "Fitur Catatan Mengajar pada Jurnal Mengajar membantu guru merekam pengalaman mengajar, mencatat tantangan yang dihadapi, serta merefleksikan proses pembelajaran. Semua tersaji dalam format yang mudah dibaca dan diorganisir untuk perbaikan di masa depan.",
+    "appName": "Jurnal Mengajar",
+    "appNameColor": "#CA2323",
+    "backgroundColor": "#A8E6CF",
+    "phoneImage": "/images/phone/iPhone16.png",
+    "circleIcon": "FileText",
+    "circleIconText": "Catatan",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#9B59B6",
+    "linkRoute": "/aplikasi/jurnal-mengajar"
+  },
+  {
+    "title": "Laporan Mengajar",
+    "description": "Fitur Laporan Mengajar pada Jurnal Mengajar memberikan insight mendalam tentang efektivitas pembelajaran, waktu yang dihabiskan untuk setiap materi, serta progress pencapaian siswa. Semua data tersaji dalam grafik yang mudah dipahami untuk evaluasi dan perbaikan.",
+    "appName": "Jurnal Mengajar",
+    "appNameColor": "#CA2323",
+    "backgroundColor": "#FFB6C1",
+    "phoneImage": "/images/phone/iPhone15Pro.svg",
+    "circleIcon": "BarChart",
+    "circleIconText": "Laporan",
+    "buttonText": "Lihat Detail",
+    "buttonColor": "#FF6B6B",
+    "linkRoute": "/aplikasi/jurnal-mengajar"
+  }
+]

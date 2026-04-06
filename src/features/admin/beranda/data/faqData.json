@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "Apa itu MiJurnal?",
+    "answer": "MiJurnal adalah platform digital yang membantu guru dan siswa dalam mengelola jurnal mengajar serta catatan pembelajaran secara praktis, cepat, dan terorganisir."
+  },
+  {
+    "id": 2,
+    "question": "Siapa saja yang bisa menggunakan MiJurnal?",
+    "answer": "MiJurnal dapat digunakan oleh guru, siswa, maupun pihak sekolah yang ingin mempermudah pencatatan kegiatan belajar mengajar."
+  },
+  {
+    "id": 3,
+    "question": "Apakah MiJurnal bisa digunakan secara gratis?",
+    "answer": "Ya, tersedia versi gratis dengan fitur dasar. Untuk fitur premium seperti laporan otomatis dan analisis data, tersedia paket berbayar."
+  },
+  {
+    "id": 4,
+    "question": "Bagaimana cara mendaftar di MiJurnal?",
+    "answer": "Cukup lakukan registrasi dengan email aktif atau akun sekolah, kemudian pilih peran sebagai guru atau siswa."
+  },
+  {
+    "id": 5,
+    "question": "Apakah data di MiJurnal aman?",
+    "answer": "Tentu, MiJurnal menggunakan sistem enkripsi dan penyimpanan cloud agar data guru dan siswa tetap aman dan mudah diakses kapan saja."
+  }
+]
